@@ -67,7 +67,7 @@ const Hero = () => {
    
    <>
     <section id="hero" className='noisy'>
-        <h1 className='title'>Mocktail</h1>
+        <h1 className='title'>Mocktails</h1>
         <img 
         src="/images/hero-left-leaf.png" 
         alt="left-leaf" 
