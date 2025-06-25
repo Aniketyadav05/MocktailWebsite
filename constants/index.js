@@ -125,7 +125,7 @@ const navLinks = [
     {
        name: "X (Twitter)",
        icon: "/images/x.png",
-       url: "#",
+       url: "https://x.com/AniketYadav05_",
     },
     {
        name: "Facebook",
